@@ -72,7 +72,7 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"WhatsApp Image 2021-06-21 at 12.44.31.jpeg",
+	"Askov.png",
 ];
 
 // (Image-background only)
