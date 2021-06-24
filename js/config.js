@@ -72,7 +72,7 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"ReactNative-snapshot-image2942909886494833499_digital_art_x4.png",
+	"WhatsApp Image 2021-06-21 at 12.44.31.jpeg",
 ];
 
 // (Image-background only)
