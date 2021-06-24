@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "logo.png";
+var l_serverImage = "ReactNative-snapshot-image2942909886494833499_digital_art_x4.png";
 
 // Center logo?
 // 'true' or 'false'
