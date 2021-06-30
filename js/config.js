@@ -112,6 +112,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 {ogg: "Havana.ogg", name: "Havana"},
+{ogg: "farroupilha-flow-prod-bife.ogg", name: "Faroupilha flow"},
 ];
 
 // Random music order?
