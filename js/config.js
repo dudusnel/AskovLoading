@@ -113,6 +113,8 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 {ogg: "Havana.ogg", name: "Havana"},
 {ogg: "farroupilha-flow-prod-bife.ogg", name: "Faroupilha flow"},
+{ogg: "fi.ogg", name: "Orgia de Traveco Lo-Fi"},
+{ogg: "buttercup.ogg", name: "Buttercup"},
 ];
 
 // Random music order?
@@ -121,7 +123,7 @@ var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 15;
+var l_musicVolume = 100;
 
 // Enable custom messages?
 // 'true' or 'false'
