@@ -113,7 +113,6 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 {ogg: "Havana.ogg", name: "Havana"},
 {ogg: "farroupilha-flow-prod-bife.ogg", name: "Faroupilha flow"},
-{ogg: "fi.ogg", name: "Orgia de Traveco Lo-Fi"},
 {ogg: "buttercup.ogg", name: "Buttercup"},
 ];
 
